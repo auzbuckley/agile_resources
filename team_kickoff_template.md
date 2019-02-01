@@ -1,5 +1,8 @@
 # Team Kick-off Agenda
 
+## Intro
+A team kick-off helps a new team through the forming phase, and an existing team through the norming phase. The purpose is to build or strengthen the foundations on which the team will grow and set them in good stead. It's important that significant time is allocated to recognize its value, and organizing it as an offsite helps to solidify this.
+
 ## Ice Breaker | 30mins
 Choose an icebreaker than creates some laughs but is also informative in the vein of ‘get-to-know’ for a new team or ‘how-well-do-you-know’ for existing teams.
 
