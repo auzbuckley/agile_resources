@@ -7,7 +7,7 @@ A team kick-off helps a new team through the forming phase, and an existing team
 Choose an icebreaker than creates some laughs but is also informative in the vein of ‘get-to-know’ for a new team or ‘how-well-do-you-know’ for existing teams.
 
 ## High level recap on agility and agile practice of choice | 30mins - 1hr
-* Agility = (developing) a working environment that supports quickly delivering value through empirical, iterative product development
+* Agility elevator pitch: `(developing) a working environment that supports quickly delivering value through empirical, iterative product development`
 * Determinism and complex systems (Measure twice, cut once - not applicable)
 * Four pillars of agility
   * Engagement
