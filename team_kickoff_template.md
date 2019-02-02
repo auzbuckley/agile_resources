@@ -34,6 +34,9 @@ A working agreement is a social contract that outlines norms for how members sho
 
 ## Definition of Done | 1hr
 The team should formulate an agreement on when tasks are considered ‘done’.
+Brainstorm all of the high-level activities that they normally do to complete a story. (Activities that they do currently, not that they _would_ do.)
+Affinity mapping
+Group in timeline.
 
 ## Admin | 30mins
 **Recurring Meetings**\
