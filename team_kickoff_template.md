@@ -32,11 +32,22 @@ A working agreement is a social contract that outlines norms for how members sho
 3. Brainstorm what positive behaviours/ actions the team can take in order to prevent these risks
 4. Dot voting to identify top 5-7 behaviours
 
+Remind the team that this working agreement should be somewhere highly visible to the team (preferably not hidden away in confluence).
+
 ## Definition of Done | 1hr
-The team should formulate an agreement on when tasks are considered ‘done’.
-Brainstorm all of the high-level activities that they normally do to complete a story. (Activities that they do currently, not that they _would_ do.)
-Affinity mapping
-Group in timeline.
+The team should formulate an agreement on when PBIs are considered ‘done’. This saves time in the future from team members prematurely considering a PBI complete.
+Keep this as a short and ideally measurable checklist.
+The team can decide if they would like separate DoDs for different stages of development or for different types of work e.g. technical tasks vs stories or if they want to focus only on DoD activities that are mandatory for every PBI no matter the kind.
+Prompt team about activites often not thought of such as release email, metrics check, or user docs updated.
+
+1. Brainstorm all of the high-level activities that they normally do to complete a story. (Activities that they do currently, not that they _would_ do.)
+2. Affinity mapping
+3. Place groups in timeline
+4. Create 'headline' for the activities
+5. (Optional) Redefine activities involved in accomplishing the headline
+
+Remind the team that this Definition of Done should be somewhere highly visible to the team (preferably not hidden away in confluence).
+The team should reflect periodically on the DoD.
 
 ## Admin | 30mins
 **Recurring Meetings**\
