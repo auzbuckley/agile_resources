@@ -1,3 +1,5 @@
+[IN PROGRESS]
+
 # Team Kick-off Agenda
 
 ## Intro
