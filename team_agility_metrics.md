@@ -8,7 +8,7 @@ Metric | Theme | Calculation | Purpose
 ------ | ----- | ----------- | --------
 Average time of open pull requests | Delay | N/A | Indicates whether there may be a queue and therefore a bottleneck in the development process
 Scope change | Stability, loss of focus | N/A | Percentage of unplanned tasks added or removed from sprint compared with forecasted. (All unplanned tasks should be estimated before being put in the sprint)
-Ratio of velocity | Sustainable pace | Number of average completed tickets/ number of average forecasted * 100 | N/A
+Ratio of velocity | Sustainable pace | Number of average completed tickets/ number of average forecasted * 100 | Indicates how close the team is to completing what they are forecasting
 Work-type distribution | Focus imbalance | Total number of tickets of each type in the current sprint displayed as a pie chart | Percentage of sprint work that is: `Bugs`, `Technical work`, `Product work` or other type of choice. Indicates which types of work the team is focusing on for the sprint and whether there is an imbalance towards technical or product work for example.
 Epic distribution | Priorities, focus | Percentage of total sprint work (story points) by epic | Indicates which topics the team’s focus and efforts are for the sprint.
 Backlog time | Delay, loss of focus | Number of backlog items * median cycle time | Indicates how long it would take the team to complete all items in their backlog. The longer this is the more unrealistic, irrelevant and wasteful the size of the backlog is.
