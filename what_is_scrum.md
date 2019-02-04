@@ -92,4 +92,4 @@ This means that the scope of the sprint, ideally, is not changed during the spri
 
 In reality though, there will be times where there is no choice but to add new tickets to the current sprint. However every effort should be made to keep these situations to a minimum. The development team must be critical of any new task being added, yet be able to adapt should scope change be necessary. If scope changes so significantly that the sprint goal is jeopardized, it is often advised to cancel the sprint.
 
-:bulb: If you do find your team in a situation where scope change is becoming an issue, [this post](https://medium.com/agilelab/strategies-for-handling-unplanned-work-during-sprint-2f89697509ff) offers useful tips on how teams can handle unplanned tasks. 
+:bulb: _If you do find your team in a situation where scope change is becoming an issue, [this post](https://medium.com/agilelab/strategies-for-handling-unplanned-work-during-sprint-2f89697509ff) offers useful tips on how teams can handle unplanned tasks._
