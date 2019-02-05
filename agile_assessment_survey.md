@@ -41,15 +41,16 @@ This survey is specifically from an agility perspective. It helps identify poten
 5. I feel our teams have few dependencies? :zap:**(P11)**
 6. I feel that we generally keep solutions simple? :zap:**(P10)**
 
-What do you feel is the most agile thing about our company?
+## What do you feel is the most agile thing about our company?
 
+## Agile Principles
 P1-satisfy customer through early and continuous delivery of valuable software\
 P2-changing requirements\
 P3-frequent delivery\
 P4-developers working closely with business people e.g. feedback\
 P5-build projects around motivated individuals\
-P6-face-to-face communication
-P7-working software is the measure of progress
+P6-face-to-face communication (Not surveyed)\
+P7-working software is the measure of progress (Not surveyed)\
 P8-sustainable development pace\
 P9-technical excellence\
 P10-simplicity\
