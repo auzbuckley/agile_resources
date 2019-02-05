@@ -70,6 +70,7 @@ When coming up with action points make sure they have the following qualities:
 * Are assigned to someone (even if the action point might refer to the entire team - someone needs to take responsibility for ensuring the entire team takes action)
 * Are actually achievable (improve code quality for example has no real 'end' - continue to dig deeper and come up with a completable task that will contribute to improving code quality)
 * Are time-boxed to the next two weeks (Action points should not be so large they drag on into infinity)
+
 Try to keep action points evenly spread between team members (don't let them all pile on the team lead for example) and ensure there are no more than 3-4. However it can be less or more depending on the relative size of the action points. The idea here is to ensure the team is not overwhelmed with improvement items and setting them up to fail before they even begin. This is also when you need to consider the number of 'carry over' action points from the last iteration.
 
 Write down the action points and the assignee as they become known. It can also be helpful to link the action point with the problem it is intended to improve for better clarity.
