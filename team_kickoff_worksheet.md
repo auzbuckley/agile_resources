@@ -1,13 +1,13 @@
 # Agile Team Kick-off
 
-**Team Name:**\
-**Team Purpose:**\
-**Jira Board:**\
-**Team email:**\
-**Slack channel:**\
-**Core hours:**\
-**Sprint Length:**\
-**Sprint Start Day:**
+**Team Name:** _The A-Team_\
+**Team Purpose:** _Helping those in need as soldiers of fortune_\
+**Jira Board:** _I Pity the Fool who uses Jira_\
+**Team email:** _theateam@theateam.com_\
+**Slack channel:** _@theateam_\
+**Core hours:** _9am-5pm_\
+**Sprint Length:** N/A\
+**Sprint Start Day:** N/A
 
 ## Members, responsibilities and skills:
 
@@ -19,7 +19,11 @@ _John Doe_ | _Python, AWS, Posgresql_ | _React, Machine Learning_ | _Backend Eng
 &nbsp;    |             |                | 
 
 ## Team Working Agreement:
-N/A
+
+- Don't interrupt one another
+- Communicate your absence via Slack (preferably in advance)
+- Majority decisions
+- Etc.
 
 ## Meetings
 
