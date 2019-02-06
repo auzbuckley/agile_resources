@@ -18,19 +18,19 @@ Recommended length: About 1hr - 1 1/2hrs
 * Bring a notepad or laptop for taking notes.
 
 ### Phase 1: The warm-up (optional)
-Timebox: 15mins
+:stopwatch: 15mins
 
 The idea of the warm-up is to get every one's brain juices flowing about the last few weeks. This can be an optimal time to get a 'feel-good' factor going by playing for example, 'The Appreciation Game'. Or to gauge everyone's expectations of what they want to get out of the retrospective. Or simply to sum up the last few weeks in three words to get them thinking for what follows.
 
 One 'game' that can be interesting to play if you want to gauge how in tune the team is with one another is ['Empathy Snap'](http://www.funretrospectives.com/empathy-snap-on-big-hitter-moments/).
 
 ### Phase 2: Check status of previous action points
-Timebox: 5mins
+:stopwatch: 5mins
 
 This is a crucial part of the retrospective. Having collected the team's previous action items before the retrospective, you will run through them to check with the team which have been completed and which are still in progress. For those still in progress, ask if they are still relevant and worthy to be carried over into the next sprint. Keep the amount of these 'carried over' action points in mind when generating new action points in Phase 6.
 
 ### Data Gathering
-Timebox: 5mins
+:stopwatch: 5mins
 
 Data gathering is essentially the 'meat-and-bones' of the retrospective.
 
@@ -41,14 +41,14 @@ Give each person a set of sticky notes and a pen. You might need to watch the cl
 Feel free to end the timebox early though if you notice everyone has finished writing.
 
 ### Show & Tell
-Timebox: 15mins
+:stopwatch: 15mins
 
 Once Phase 3 time is up, have each member stand and stick their notes to the white board accordingly and briefly explain each one. Again keep track of the time, and although others can ask questions to clarify, don't let conversation get too carried away. If it is an important issue, the team will have a chance in the next phase to vote on it to discuss further. Also ensure the speaker doesn't waffle e.g. reiterate their point multiple times or digress from the topic at hand.
 
 It is advised to write down each topic being presented to record the team's thoughts.
 
 ### Grouping & Voting
-Timebox: 5mins
+:stopwatch: 5mins
 
 Usually team members will have raised similar or even identical topics. Now is the time to group them via affinity mapping. Encourage everyone to stand up and do this interactively. For the sake of clarity, have them write the group topic beside the grouped notes. Ensure they know that not all notes need to be grouped if it doesn't make sense. Don't let them take too long.
 
@@ -57,7 +57,7 @@ If your theme has a positive aspect, it might not make sense to group positive a
 Once you have clearly grouped topics give everyone three 'dot' votes. Explain that they are voting for the topics they wish to discuss in greater depth and to generate action points to improve. They can leave all three dots on one group or note, or spread them between groups. (Again keep an eye on people voting on positive topics - and ensure they understand the next phase is about deciding how to improve upon these topics.)
 
 ### Generating Action Points
-Timebox: 30mins
+:stopwatch: 30mins
 
 This phase is absolutely crucial in order for the retrospective to have concrete worth. If all anyone did in retrospective was raise concerns and no action was decided, it would quickly become perceived as a waste of time and just an opportunity for the team to complain (creating an unpleasant environment).
 
@@ -78,7 +78,7 @@ Write down the action points and the assignee as they become known. It can also 
 Once you are done generating action points, reiterate them to the team including who is assigned to each.
 
 ### Retro Closing (Optional - but recommended)
-Timebox: 5mins
+:stopwatch: 5mins
 
 In the spirit of continuous improvement, it can be best (if time allows it) to get feedback on the retrospective itself. This enables you to stay in tune with the team and provide them with maximum value.
 
