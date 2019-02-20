@@ -12,7 +12,7 @@ Recommended length: About 1hr - 1 1/2hrs
 
 ### Pre-retro
 * Collect the teams previous action points (if they had any) and have them ready so you can refer to them during the retrospective.
-* Decide on your retro format and/ or theme. For general but pretty solid and reliable themes it would be recommended to choose 'Start, Stop, Continue', 'I Like, I wish', or even 'Lean Coffee'. Come see the Agile coach to learn more.
+* Decide on your retro format and/ or theme. For general but pretty solid and reliable themes it would be recommended to choose 'Start, Stop, Continue', 'I Like, I wish', or even 'Lean Coffee'.
 * Ensure you have the right equipment (sticky notes, pens, flipchart, whiteboard)
 * Make sure you have a watch or device to keep track of time. You will need it.
 * Bring a notepad or laptop for taking notes.
@@ -20,14 +20,14 @@ Recommended length: About 1hr - 1 1/2hrs
 ### Phase 1: The warm-up (optional)
 :stopwatch: 15mins
 
-The idea of the warm-up is to get every one's brain juices flowing about the last few weeks. This can be an optimal time to get a 'feel-good' factor going by playing for example, 'The Appreciation Game'. Or to gauge everyone's expectations of what they want to get out of the retrospective. Or simply to sum up the last few weeks in three words to get them thinking for what follows.
+The idea of the warm-up is to get every one's brain juices flowing about the last few weeks. This can be an optimal time to get a 'feel-good' factor going by playing for example, 'The Appreciation Game'; to gauge everyone's expectations of what they want to get out of the retrospective; or simply to sum up the last few weeks in three words to get them thinking for what follows.
 
 One 'game' that can be interesting to play if you want to gauge how in tune the team is with one another is ['Empathy Snap'](http://www.funretrospectives.com/empathy-snap-on-big-hitter-moments/).
 
 ### Phase 2: Check status of previous action points
 :stopwatch: 5mins
 
-This is a crucial part of the retrospective. Having collected the team's previous action items before the retrospective, you will run through them to check with the team which have been completed and which are still in progress. For those still in progress, ask if they are still relevant and worthy to be carried over into the next sprint. Keep the amount of these 'carried over' action points in mind when generating new action points in Phase 6.
+This is a crucial part of the retrospective. Having collected the team's previous action items before the retrospective, you will run through them to check with the team which have been completed and which are still in progress. For those still in progress, ask if they are still relevant and worthy to be carried over into the next sprint. Keep the amount of these 'carried over' action points in mind when generating new action points towards the end of the retro.
 
 ### Data Gathering
 :stopwatch: 5mins
