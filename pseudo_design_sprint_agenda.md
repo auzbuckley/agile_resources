@@ -1,7 +1,10 @@
 [WORK IN PROGRESS]
 
 # Intro
-This agenda is for situations when time is scarce. Normally a design sprint should happen over the course of several days, however this pseudo-design sprint is for around 2hrs.
+This agenda is for situations when time is scarce. Normally a design sprint should happen over the course of several days, however this pseudo-design sprint is for around 2hrs. Inspiration drawn from the following:
+- https://designsprintkit.withgoogle.com/methodology/phase1-understand/hmw-sharing
+- https://medium.freecodecamp.org/how-to-run-a-successful-design-sprint-1702e0f79797
+- https://medium.com/@ascent0/the-2-hour-ideation-workshop-ed471c538adc
 
 **Timebox:** 2hrs\
 **Number of people:** 6-10\
