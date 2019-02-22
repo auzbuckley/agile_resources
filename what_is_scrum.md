@@ -50,16 +50,20 @@ There is no "I" in "Team", or so the cliche goes. Scrum purposefully _does not d
 
 ### :white_check_mark: Scrum teams are intended to be cross-functional
 
-Cross-functional teams are described by the Scrum guide as having "... all competencies needed to accomplish the work without depending on others not part of the team." This is a practice that developed out of several agile principles, most notably: 
-building projects around motivated individuals by giving them everything they need to get the job done, including trust, and;
-continuous and frequent delivery of valuable and working software (with a preference to the shorter timescale e.g. weeks not months)
+Cross-functional teams are described by the Scrum guide as having
+> "... all competencies needed to accomplish the work without depending on others not part of the team."
+
+This is a practice that supports several agile principles, most notably: 
+- building projects around motivated individuals by giving them everything they need to get the job done, including trust, and;
+- continuous and frequent delivery of valuable and working software (with a preference to the shorter timescale e.g. weeks not months)
+
 Depending on the project, a component team (i.e. a team that only has a specific skillset such as a Backend team, Frontend Team or Quality Assurance team) usually do not themselves possess everything needed in order to deliver an increment of software valuable to the customer. They instead are only one part of the product/ feature and rely on the combined efforts/ skills and cross-team collaboration in order to deliver to the customer. Producing a 'Potentially Shippable Product Increment' by the end of the sprint is central to Scrum's built in customer feedback cycle (and agile principles).
 
 This is not to say however that Scrum practices won't benefit a component team, however they will likely have to adapt the framework to suit.
 
 :warning:
-* _Having multiple component teams working on parts of a single feature naturally creates dependencies and reduces autonomy, dependencies create collaboration/ communication and management overhead, slowing the time to delivery down significantly. Try to minimise the amount of sequential development (and therefore hand-overs) between teams if you cannot have cross-functional teams._
-* _The end-user feedback loop is often significantly longer with component teams seeing as it usually takes more time for the integrated project to be released. This means learning and experimenting rapidly becomes more difficult, and the purpose of 'iterations' becomes diluted._
+* _Having multiple component teams working on parts of a single feature/ product naturally creates dependencies and reduces autonomy, dependencies create collaboration/ communication and management overhead, slowing the time to delivery down significantly. Try to minimise the amount of sequential development (and therefore hand-overs and large batch sizes) between teams if you cannot have cross-functional teams._
+* _The end-user feedback loop, and time-to-market is often significantly longer with component teams seeing as it usually takes more time for the integrated project to be released. This means learning and experimenting rapidly becomes more difficult, and the purpose of 'iterations' becomes diluted._
 * _Component teams arguably still have their place, such as in SRE/ infrastructure teams, but it's recommended the ratio is weighted towards cross-functional teams._
 
 ### :white_check_mark: The development team decides how much to work on
