@@ -15,3 +15,7 @@ Scope in waterfall is usually fixed from the very beginning (often within a cont
 :bulb: **[The Cone of Uncertainty:](http://www.agilenutshell.com/cone_of_uncertainty)** When you have uncertainty ahead of you, it does not make much sense to lock in decisions at the beginning (a point when you know the least about your project).
 
 ![cone of uncertainty](http://www.agilenutshell.com/assets/definitions/cone-of-uncertainty.png)
+
+:bulb: **[The Law of Diminishing Returns:](http://blog.garridovaz.com/agile-planning-and-the-law-of-diminishing-returns/)** If something goes awry in your project, it is easy to fall into the mindset that "next time we just need to be better at planning" a.k.a. spend more time planning, when you approach complexity with a deterministic approach. While planning is absolutely critical, the law of diminishing returns dictates that at some point, doing more planning will turn to waste, and eventually even negative returns.
+
+![law of diminishing returns](http://blog.garridovaz.com/wp-content/uploads/2017/07/Diminishing-returns-1024x727.png)
