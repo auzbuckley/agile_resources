@@ -2,6 +2,8 @@
 
 Basic content for Agile 101 introduction.
 
+:warning: _**Warning:** This is not intended to 'bash' Waterfall processes. Waterfall has its place in some projects where certainty around the outcome and how to get there is very high. The danger lies in using the wrong approach for the wrong type of project e.g. Use waterfall within a complex context and the risk to delivering value will be great, use agile within a simple/ straightforward context and you risk wasting time and resources. Determining whether your project is complex or straightforward is subjective, difficult and beyond the scope of this document. Advice would be to default to agile however - as you learn more about the project you can always change your approach._
+
 Waterfall | Agile
 ----------|-------------
 Waterfall uses a deterministic approach (cause and effect), with the belief that there is certainty around the end-target (B) and we know how to get there e.g. if we do 'A' we can reach 'B' ![certainty](./images/certainty.png) | Agile assumes we don't know what the end-target looks like or how exactly to get there. It uses an emprical approach to reduce uncertainty.![uncertainty](./images/uncertainty.png)
