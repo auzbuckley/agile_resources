@@ -1,3 +1,7 @@
+[WORK IN PROGRESS]
+
+Basic content for Agile 101 introduction.
+
 Waterfall | Agile
 ----------|-------------
 Waterfall uses a deterministic approach (cause and effect), with the belief that there is certainty around the end-target (B) and we know how to get there e.g. if we do 'A' we can reach 'B' ![certainty](./images/certainty.png) | Agile assumes we don't know what the end-target looks like or how exactly to get there. It uses an emprical approach to reduce uncertainty.![uncertainty](./images/uncertainty.png)
