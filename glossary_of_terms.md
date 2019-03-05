@@ -3,7 +3,7 @@
 :warning: _Scrum terms are marked with a_ :star:
 
 ## Product Backlog Item (PBI) :star:
-Any item on the product backlog - also informally referred to as a 'ticket'
+Any item on the product backlog - also can simply be referred to as a 'ticket' in some organizations.
 
 ## User Story
 A lightweight, high-level description of a customer-centric feature that:
@@ -12,9 +12,9 @@ A lightweight, high-level description of a customer-centric feature that:
 - Are usually no bigger than a few days worth of work
 - Represent a thin vertical (touches multiple layers) slice of deliverable functionality that provides some benefit to the end-user and is a potentially shippable product increment e.g. is ideally standalone and can be demoed and used by the user on its own for optimal feedback
 
-:warning::
+:warning: **Warning**:
 - _Stories evolved out of a need to avoid getting bogged down in formal requirements analysis and documentation. They are high level and do not specify any technical implementation detail_
-- _The format “As a … I want … So that …” helps keep focus on the 'who, what and why', enables consistency in story description and helps to avoid later confusion._
+- _The format “As a … I want … So that …” helps keep focus on the 'who, what and why', enables consistency in story description and helps to avoid later confusion, but it can also be easily misused._
 - _If it is not exposed to the end-user, and/or does not provide clear value to the end-user (from their perspective) then it is generally not considered a user story. The end-user therefore must be defined._
 - _Stories are often implemented by more than one person (via sub-tasks)._
 - _If a user story is too big, be careful that the smaller stories created from it continue to meet the definition above and are not are actually tasks trying to be stories…._
@@ -27,7 +27,8 @@ A lightweight, high-level description of a customer-centric feature that:
 - Normally included into a user story ticket
 - Simple and short pass/fail statements that together describe the scope of the user story.
 
-:warning:
+:warning: **Warning**:
+
 _Gherkin syntax [given, when, then] is a popular way to describe AC, however it's helpful to understand that this actually describes scenarios which are, in theory, concrete examples of acceptance criteria. Gherkin syntax itself was developed as a BDD format for describing AC as behavioural scenarios that could be executed as automated acceptance tests. Similar to the format 'As a... I want... So that...', if misused, the syntax loses much of its value._
 
 ## Subtask
@@ -54,13 +55,15 @@ Represents risk
 - In theory every story contains unknowns, risks - spikes should be used sparingly and for critical unknowns
 - They are timeboxed
 
-Spikes originated from extreme programming.
+Spikes originated from Extreme Programming.
 
 ## Bug
 
 A bug can be considered as any unexpected behaviour of previously specified and agreed upon requirements.
 
-:warning: _If a feature is deemed to be behaving unexpectedly, yet the expected behaviour/ use case was never specified in the implemented user story, then it is not considered a bug._
+:warning: **Warning**:
+
+_If a feature is deemed to be behaving unexpectedly, yet the expected behaviour/ use case was never specified in the implemented user story, then it is not considered a bug._
 
 ## Estimation :star:
 
@@ -72,26 +75,29 @@ A bug can be considered as any unexpected behaviour of previously specified and 
 - Sub-tasks of stories are usually not estimated but sometimes are in man hours.
 - Like spikes, it is not common to estimate bugs, due to their uncertain nature, however it is up to the team to decide how they would like to approach such product backlog items.
 
-:warning:
+:warning: **Warning**:
+
 - _Story points are not from Scrum_
 - _Estimates are exactly that - estimates. Do not dwell too much on them, your relative 'accuracy' will improve over time._
 - _Generally its not a good idea to re-estimate tickets once work has started. This is mixing before knowledge with after knowledge and makes it far more difficult to compare tickets later._
 
 ## Velocity
 
-Velocity is often considered as a measurement for tracking delivered customer value over a sprint, not the total amount of work done, but this is not officially defined. In this regard, it is common for only user stories and sometimes technical tasks to count towards the velocity. Bugs, spikes etc are therefore not normally estimated (also because they tend not to be easily estimatable) being arguably considered as not delivering direct customer value.
+Velocity is often considered as a measurement for tracking delivered customer value over a sprint, not the total amount of work done, but this is not officially defined. In this regard, it is common for only user stories and sometimes technical tasks to count towards the velocity. Bugs, spikes etc are therefore sometimes not estimated (also because they tend not to be easily estimatable) being arguably considered as not delivering direct customer value. This is a point of contention, and discretion is advised :)
 
 The velocity should stabilise per sprint over time, and the average from preceding sprints can be used to gauge how much work can be realistically accepted in the next sprint, and even help determine if deadlines will be met.
 
-:warning: _Velocity should never be used as a metric to push for better performance e.g. setting a velocity 'target'. Estimates are relative numbers and mean different things to different teams and can easily be manipulated to reach 'goals'._
+:warning: **Warning**:
+
+_Velocity should never be used as a metric to push for better performance e.g. setting a velocity 'target'. Performance in most cases should be tied to outcome, not output which velocity barely represents. Estimates are relative numbers and mean different things to different teams and can easily be manipulated to reach 'goals'._
 
 _**Velocity should be treated as indicitive, not precise, so don't spend to much time paining over exact numbers.**_
 
-_Whatever type of ticket you choose to estimate (user story, bug, technical task etc), understand what your velocity (or progress) represents and what this means for your team and anyone else who is interested in your work._
+_Whatever type of ticket you choose to estimate (user story, bug, technical task etc), understand what your velocity (or progress) represents and what this means for your team and anyone else who is interested in your work and make it clear._
 
 ## Product Backlog :star:
 
-The Product Backlog is owned by the Product Owner. It contains mostly stories, but can also contain spikes as well as technical tasks not associated with any story, such as infrastructure tasks. During Grooming meetings, the items in the Product Backlog are refined as a team. However the PO can constantly add, remove and prioritize the items.
+The Product Backlog is owned by the Product Owner. It contains mostly stories, but can also contain spikes as well as technical tasks not associated with any story, such as infrastructure tasks. During Grooming meetings, the items in the Product Backlog are refined as a team. However the PO can constantly add, remove and prioritize the items. The product backlog should _not_ be a 'bottomless pit' of PBIs - but this is another story.
 
 ## Sprint Backlog :star:
 
