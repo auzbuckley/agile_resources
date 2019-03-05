@@ -13,13 +13,9 @@ Choose an icebreaker than creates some laughs but is also informative in the vei
 ## High level recap on agility and agile practice of choice
 :stopwatch: 30mins - 1hr
 
-* Agility elevator pitch: `(developing) a working environment that supports quickly delivering value through empirical, iterative product development`
-* Determinism and complex systems (Measure twice, cut once - not applicable)
-* Four pillars of agility
-  * Engagement
-  * Transparency and collaboration
-  * Continuous Delivery of Value
-  * Rapid experimentation
+[What is agility](../what_is_agile.md)\
+[What is Scrum](../what_is_scrum.md)
+[What is Kanban](../what_is_kanban.md)
 
 ## Skills
 :stopwatch: 40mins
