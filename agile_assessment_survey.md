@@ -1,7 +1,7 @@
 [IN PROGRESS]
 
-# Agile Assessment Tool
-To perform regularly to gauge improvements and identify areas of focus.
+# Agile Assessment Survey
+A tool for getting a 'finger-in-the-air' overview to identify possible issues.
 Scale 1-5. (Strongly Disagree - Strongly Agree)
 Questions should be answered within the context of the entire tech and product departments.
 
