@@ -23,7 +23,7 @@ This survey is specifically from an agility perspective. It helps identify poten
 3. I feel all teams are strategically aligned
 4. I feel that there is sufficient collaboration and feedback between tech teams and stakeholders/ customers :zap:**(P4)**
 5. I feel that I have a say in the direction of the tech and product departments
-6. I feel that we are clearly and visibly tracking the progress and/ or health of the teams, department, and product :zap:**(P12)**
+6. I feel that we are clearly and visibly tracking the organizational progress and/ or health of the teams, department, and product :zap:**(P12)**
 
 ## Valuable continuous delivery :zap:(P1)
 1. I feel we are building the right things (Customer feedback? Data driven?)
