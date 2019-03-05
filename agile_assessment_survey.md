@@ -18,10 +18,10 @@ This survey is specifically from an agility perspective. It helps identify poten
 6. I have reasonable control and flexibility over my work
 
 ## Transparency & Collaboration
-1. I feel that, within our department, individuals and teams collaborate closely together (as opposed to being silos)
+1. I feel that, within our department, there is sufficient collaboration and feedback between individuals and teams (as opposed to being silos)
 2. I feel that decisions made within the product and tech departments are inclusive and well communicated (strategy, internal changes etc.)
 3. I feel all teams are strategically aligned
-4. I feel that tech teams closely collaborate with stakeholders and customers :zap:**(P4)**
+4. I feel that there is sufficient collaboration and feedback between tech teams and stakeholders/ customers :zap:**(P4)**
 5. I feel that I have a say in the direction of the tech and product departments
 6. I feel that we are clearly and visibly tracking the progress and/ or health of the teams, department, and product :zap:**(P12)**
 
@@ -31,17 +31,17 @@ This survey is specifically from an agility perspective. It helps identify poten
 3. I feel that the quality of our product is high (agile testing?)
 4. I feel that we are able to respond quickly enough to changing requirements :zap:**(P2)**
 5. I feel we are innovative
-6. I feel we are delivering (to the customer) at a sustainable pace :zap:**(P8)**
+6. I feel we are delivering to the customer at a sustainable but frequent (<4weeks) pace :zap:**(P8)**
 
 ## Rapid experimenting and learning (continuous improvement)
 1. I feel our time-to-market is acceptable :zap:**(P3)**
 2. I feel our environment is empirical (Do we regularly stop to learn from and make decisions based on validated observations and data rather than pure theory or assumptions?) :zap:**(P12)**
-3. I feel our technical setup is mature enough to support rapid experimenting I.e. we deploy but also recover quickly from failures (maintainable code-base, automated devops, automated test suites, technical debt, de-coupled architecture, ‘fail-safe’ techniques such as canary releases, release trains etc.) :zap:**(P9)**
+3. I feel our technical setup is mature enough to support rapid development, deployment _and_ recovery (i.e. maintainable code-base, automated devops, automated test suites, technical debt, de-coupled architecture, feature flags, ‘fail-safe’ techniques such as canary releases, release trains etc.) :zap:**(P9)**
 4. I feel our environment attitude is ‘fail-friendly’?
 5. I feel our teams have few dependencies? :zap:**(P11)**
-6. I feel that we generally keep solutions simple? :zap:**(P10)**
+6. I feel that we generally keep solutions (releases, technical implementations, ) simple? :zap:**(P10)**
 
-## What do you feel is the most agile thing about our company?
+## What do you feel is the most agile thing about this company?
 
 ## Agile Principles
 P1-satisfy customer through early and continuous delivery of valuable software\
