@@ -9,7 +9,7 @@ Why is this the case? Because the bigger your backlog, the more 'noise' there is
 ## Loss of Focus
 The more items you have on your backlog the less likely you are focusing on what needs to be done now and investing time in longer term items which have inherent uncertainty.
 
-## Inventory represents cost (they you man never recoup)
+## Inventory represents cost (that you may never recoup)
 The more items you have on your backlog the more WIP or inventory you have i.e. work that has been started but not finished. This is work that represents time (and therefore money) already spent but does not yet have any return on investment and may never (if it devalues over time).
 
 ## Markets and organizations are not static
