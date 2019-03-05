@@ -19,8 +19,8 @@ This survey is specifically from an agility perspective. It helps identify poten
 
 ## Transparency & Collaboration
 1. I feel that, within our department, there is sufficient collaboration and feedback between individuals and teams (as opposed to being siloed)
-2. I feel that decisions made within the product and tech departments are inclusive and well communicated (strategy, internal changes etc.)
-3. I feel all teams are strategically aligned
+2. I feel that decisions made within the product and tech departments consider feedback and are well communicated (strategy, internal changes etc.)
+3. I feel all teams are aligned on strategy and prioritization
 4. I feel that there is sufficient collaboration and feedback between tech teams and stakeholders/ customers :zap:**(P4)**
 5. I feel that I have a say in the direction of the tech and product departments
 6. I feel that we are clearly and visibly tracking the organizational progress and/ or health of the teams, department, and product :zap:**(P12)**
