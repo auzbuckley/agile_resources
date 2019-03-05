@@ -4,11 +4,24 @@
 
 Below is a comparison between waterfall and agile approaches for the sake of point-of-reference. Waterfall has its place in some projects where certainty around the outcome and how to get there is very high. The danger lies in using the wrong approach for the wrong type of project e.g. Use waterfall within a complex context and the risk to delivering value will be great, use agile within a simple/ straightforward context and you risk wasting time and resources. Determining whether your project is complex or straightforward is subjective, difficult and beyond the scope of this document. Advice would be to default to agile however - as you learn more about the project you can always change your approach.
 
-## Agile Values
+## But what _is_ agile?
+`(developing) a working environment that supports quickly delivering value through empirical, iterative product development`
+
+### Agile Manifesto Values
 1. People and interactions over processes and tools
 2. Customer collaboration over contract negotiation
 3. Working software over comprehensive documentation
 4. Responding to change over following a plan
+
+### Four pillars of agility
+Another approach to briefly explaining more tangible areas in which agility involves itself, inspired by [modern agile](http://modernagile.org/), are these four pillars.
+
+  * Engagement
+  * Transparency and collaboration
+  * Continuous Delivery of Value
+  * Rapid experimentation
+  
+## Comparison
 
 Waterfall | Agile
 ----------|-------------
@@ -22,6 +35,6 @@ Scope in waterfall is _usually_ fixed from the very beginning (often within a co
 
 ![cone of uncertainty](http://www.agilenutshell.com/assets/definitions/cone-of-uncertainty.png)
 
-:bulb: **[The Law of Diminishing Returns:](http://blog.garridovaz.com/agile-planning-and-the-law-of-diminishing-returns/)** If something goes awry in your project, it is easy to fall into the mindset that "next time we just need to be better at planning" a.k.a. spend more time planning, when you approach complexity with a deterministic approach. While planning is absolutely critical, the law of diminishing returns dictates that at some point, doing more planning will turn to waste, and eventually even negative returns.
+:bulb: **[The Law of Diminishing Returns:](http://blog.garridovaz.com/agile-planning-and-the-law-of-diminishing-returns/)** When you approach complexity with a deterministic approach and something goes wrong, it is easy to fall into the mindset that "next time we just need to be better at planning" a.k.a. spend more time planning; essentially an extension of the phrase "measure twice, cut once". While planning is absolutely critical, the law of diminishing returns dictates that at some point, doing more planning will turn to waste, and eventually even negative returns.
 
 ![law of diminishing returns](http://blog.garridovaz.com/wp-content/uploads/2017/07/Diminishing-returns-1024x727.png)
