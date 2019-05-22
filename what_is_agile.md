@@ -1,6 +1,8 @@
 :construction: [IN PROGRESS]
 
-`Delivering value quickly through empirical, iterative product development.`
+# What is Agility?
+
+`Delivering value quickly through empirical, iterative work.`
 
 ## **Agile Manifesto Values**
 
