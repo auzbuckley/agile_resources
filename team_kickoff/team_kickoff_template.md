@@ -1,4 +1,4 @@
-[IN PROGRESS]
+:construction: [IN PROGRESS]
 
 # Team Kick-off Agenda
 
@@ -35,12 +35,14 @@ List the names, core and desired skills, and role of each team member.
 
 A working agreement is a social contract that outlines norms for how members should interact with one another to be successful. Topics could include how decisions will be made, how to communicate, share information or support one another. It is a living document that can be expanded or edited, should be somewhere visible and be regularly referred to in order to hold one another accountable. Ultimately it helps to develop a team culture.
 
-1. Brainstorm around the question `“What are the risks posed from within that could cause you to fail as a team?”` Lack of respect, communication, collaboration etc.
+1. Brainstorm around the question `“What are the risks posed from within the team that could cause you to fail as a team?”` Lack of respect, communication, collaboration etc.
 2. Dot voting to identify the top 5-7 risks
-3. Brainstorm what positive behaviours/ actions the team can take in order to prevent these risks
-4. Dot voting to identify top 5-7 behaviours
+3. Brainstorm what positive behaviors/ actions the team can take in order to prevent these risks
+4. Dot voting to identify top 5-7 behaviors
 
-Remind the team that this working agreement should be somewhere highly visible to the team (preferably not hidden away in confluence).
+:warning: Warning:
+
+_Remind the team that this working agreement should be somewhere highly visible to the team (preferably not hidden away in confluence)._
 
 ## Definition of Done
 :stopwatch: 1hr
