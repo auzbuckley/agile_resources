@@ -30,6 +30,17 @@ List the names, core and desired skills, and role of each team member.
 ## Purpose & Mission
 :stopwatch: 1hr
 
+Its incredibly important for teams to know their purpose, their reason for existence, in order to know what they are contributing to and to operate as a successful, collective unit. Without a purpose, the team will be directionless and risk underperformance and demotivation.
+
+1. Share general thoughts around the following questions, by having them right down on sticky notes individually.
+    - *What is our job as a team?  What are you trying to achieve?*
+    - *Why are you doing this? Why does it matter?*
+    - *Whom does this benefit?*
+2. Have each person quickly explain their stickies and place them on a board/ wall according to the question.
+3. Group similar stickies and discuss until team is happy with an answer for each question
+4. With this information, form a purpose statement. You can use the following format: 
+*In order to [why] for [who] our team [what]*
+
 ## Working agreement
 :stopwatch: 1hr
 
