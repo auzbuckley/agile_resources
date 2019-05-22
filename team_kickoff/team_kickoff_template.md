@@ -13,7 +13,7 @@ Choose an icebreaker than creates some laughs but is also informative in the vei
 ## High level recap on agility and agile practice of choice
 :stopwatch: 30mins - 1hr
 
-* [What is agility](../what_is_agile.md)
+* [What is agility](../what_is_agile/what_is_agile.md)
 * [What is Scrum](../what_is_scrum.md)
 * [What is Kanban](../what_is_kanban.md)
 
