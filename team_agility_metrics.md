@@ -2,7 +2,9 @@
 
 # Possible Team Agility Metrics
 
-It's best to approach all below metrics as _indicators_ i.e. they may or may not suggest an underlying problem and therefore should not be taken at face-value.
+⚠️ **Warning**:
+
+*Metrics should never be used by management as a way of controlling a team. Metrics are best used **only** by the team itself and treated **only** as as indicators i.e. they may or may not suggest an underlying problem and therefore should be investigated and not be taken at face-value.*
 
 Metric | Theme | Calculation | Purpose
 ------ | ----- | ----------- | --------
