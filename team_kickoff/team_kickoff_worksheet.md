@@ -1,4 +1,4 @@
-[IN PROGRESS]
+:construction: [IN PROGRESS]
 
 # Agile Team Kick-off
 
@@ -25,6 +25,13 @@ _John Doe_ | _Python, AWS, Posgresql_ | _React, Machine Learning_ | _Backend Eng
 - Don't interrupt one another
 - Communicate your absence via Slack (preferably in advance)
 - Majority decisions
+- Etc.
+
+## Definition of Done
+- Unit tests passed
+- Documentation updated
+- Code reviewed
+- Acceptance criteria met
 - Etc.
 
 ## Meetings
